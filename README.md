@@ -1,6 +1,6 @@
 # Calculator
 
-## screenshot
+## Screenshots 
 ![Screenshot (245)](https://user-images.githubusercontent.com/47216278/92069171-63174b80-edc6-11ea-926d-be2ae56396ed.png)
 
 
